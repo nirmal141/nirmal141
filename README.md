@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nirmal141
-- 👀 FrontEnd Web Developer
+- 👀 Full Stack Developer
 - 📫 How to reach me, Contact- 8169451714 E-mail: nirmalpatel284@gmail.com
 
 
