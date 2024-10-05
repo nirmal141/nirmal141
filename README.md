@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @nirmal141
-- 👀 Full Stack Developer
-- 📫 How to reach me, Contact- 8169451714 E-mail: nirmalpatel284@gmail.com
+- 👋 Hi, I’m Nirmal Boghara
+- 👀 Software Engineer | Machine Learning Enthusiast | Entrepreneurship
+- 📫 How to reach me, Contact- +13476283769 E-mail: nb3964@nyu.edu
+- New York University! Violet Pride.
 
 
