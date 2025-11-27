@@ -1,5 +1,5 @@
 - Hi, I’m Nirmal Boghara
-- Software Engineer | Machine Learning Enthusiast | Entrepreneurship | Leadership
+- Software Engineer | Machine Learning Enthusiast | Entrepreneurship | Leadership | Communication
 - CS at NYU
 - Prev AI Intern at Chewy on an Unbound Program building a product from scratch
 - 4x Hackathon Winner
