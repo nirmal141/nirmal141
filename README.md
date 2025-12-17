@@ -1,8 +1,9 @@
 - Hi, I’m Nirmal Boghara
 - Software Engineer | Machine Learning Enthusiast | Entrepreneurship | Leadership | Communication
 - CS at NYU
+- Research Assistant at NYU CDS
 - Prev AI Intern at Chewy on an Unbound Program building a product from scratch
-- 4x Hackathon Winner
+- 6x Hackathon Winner
 - 3x Mentorships
 - 2x Judge
 - Ambassador at Qualcomm for Edge AI
