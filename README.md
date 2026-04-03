@@ -1,5 +1,5 @@
 - Hi, I’m Nirmal Boghara
-- Software Engineer | Machine Learning Enthusiast | Entrepreneurship | Leadership | Communication
+- Currentl a Forward Deployed Engineer at Conduit Commerce
 - CS at NYU
 - Research Assistant at NYU CDS
 - Prev AI Intern at Chewy on an Unbound Program building a product from scratch
@@ -8,9 +8,7 @@
 - 2x Judge
 - Ambassador at Qualcomm for Edge AI
 - BE in Computer Engineering
-- 2x SDE Intern in Mumbai, India
-- 1x FullStack Intern in Mumbai, India
-- 1x AI Intern in Mumbai, India
+- 4x previous interns | India
 - I used to play baseball for fun, now I don't
 
 
