@@ -1,5 +1,5 @@
 - Hi, I’m Nirmal Boghara
-- Currentl a Forward Deployed Engineer at Conduit Commerce
+- Currently a Forward Deployed Engineer at Conduit Commerce
 - CS at NYU
 - Research Assistant at NYU CDS
 - Prev AI Intern at Chewy on an Unbound Program building a product from scratch
